@@ -14,7 +14,7 @@ $DOC.sections['fixed-top-bar'] =
 $DOC.sections['header-panel'] =
 '# Markdown webdocs\n\
 Система подготовки веб-справки и документации  \n\
-Редактор документов с Markdown разметкой';
+Редактор документов с Markdown разметкой ---';
 
 
 if ($OPT.editable) {
